@@ -1,0 +1,43 @@
+body 
+{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+.navbar 
+{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+.navbar a 
+{
+    color: white !important;
+}
+.dropdown-menu 
+{
+    background-color: black !important;
+}
+
+.dropdown-menu a 
+{
+    text-decoration: none !important;
+    list-style-type: none !important;
+    padding: 2px 8px !important;
+}
+
+.form-control
+    {
+        border: none;
+        border-radius:0px ;
+        border-bottom: 2px solid blue;
+    }
+
+    
+ .navbar-link{
+    padding: 50px 10px !important;
+}
+.forget{
+    text-decoration: none;
+    font-size: 18px;
+}
